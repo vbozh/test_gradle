@@ -1,4 +1,4 @@
 public class C1 {
 
-    String s = "sss12";
+    String s = "sss1";
 }
